@@ -1,6 +1,6 @@
 #  ChatVid — Chat with Your Videos 💬🎬
 
-VidChatRAG is a **Retrieval-Augmented Generation (RAG)** powered **Streamlit app** that lets you **chat with any video you upload**.
+ChatVid is a **Retrieval-Augmented Generation (RAG)** powered **Streamlit app** that lets you **chat with any video you upload**.
 It automatically extracts audio, transcribes it using **whisper-large-v3**, generates **frame captions** using **llama-4-scout**, and stores both text and visual embeddings in **ChromaDB** for intelligent question answering. The RAG Chatbot is powered by **openai/gpt-oss-120b**.
 
 ---
