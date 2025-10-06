@@ -1,0 +1,10 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+ffmpeg-python
+opencv-python
+python-dotenv
+langchain-groq
+langchain-community
+langchain_huggingface
