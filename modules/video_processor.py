@@ -1,5 +1,3 @@
-# In video_processor.py
-
 import os
 import ffmpeg
 from groq import Groq
